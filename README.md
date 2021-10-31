@@ -1,5 +1,5 @@
 # DataStructures-Iterable
-CSCI 340 Data Structures Assignment
+CSCI 340 Data Structures Assignments
 
 # Program1
 
